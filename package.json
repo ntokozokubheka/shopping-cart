@@ -1,0 +1,19 @@
+{
+  "name": "ntokozo-kubheka-705-contentitem-javascript",
+  "version": "1.0.0",
+  "description": "Umuzi Shopping cart calculations task ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Ntokozo-Kubheka-705-contentitem-javascript.git"
+  },
+  "author": "Ntokozo H. Kubheka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Ntokozo-Kubheka-705-contentitem-javascript/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Ntokozo-Kubheka-705-contentitem-javascript#readme"
+}
